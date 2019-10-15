@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"find_eleme",
+				"find_element_by_link_text"
+			],
+			[
+				"BA",
+				"BACKEND_SESSION_KEY"
+			],
+			[
+				"templa",
+				"template_name"
+			],
+			[
+				"rq",
+				"request"
+			],
+			[
+				"Comm",
+				"CommentModelForm"
+			],
+			[
+				"get",
+				"get_user_class"
+			],
+			[
+				"pagina",
+				"paginate_comments_by"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"nav",
+				"--nav-bg-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bober/python/examinator"
+	],
+	"file_history":
+	[
+		"/home/bober/python/react-practice/clicker/src/App.js",
+		"/home/bober/python/react-practice/clicker/index.js",
+		"/home/bober/python/react-practice/clicker/index.html",
+		"/home/bober/python/react-practice/clicker/public/index.html",
+		"/home/bober/python/react-practice/clicker/src/components/ResourceList.js",
+		"/home/bober/python/react-practice/clicker/package.json",
+		"/home/bober/python/react-practice/clicker/src/App.css",
+		"/home/bober/python/react-practice/clicker/src/index.css",
+		"/home/bober/python/react-practice/clicker/src/index.js",
+		"/home/bober/python/react-practice/clicker/README.md",
+		"/home/bober/python/react-practice/clicker/.gitignore",
+		"/home/bober/python/tdd-goat/TODO.txt",
+		"/home/bober/python/tdd-goat/functional_tests/test_my_lists.py",
+		"/home/bober/python/tdd-goat/NOTES.txt",
+		"/home/bober/python/tdd-goat/functional_tests/test_login.py",
+		"/home/bober/python/tdd-goat/functional_tests/base.py",
+		"/home/bober/python/tdd-goat/superlists/settings.py",
+		"/home/bober/python/tdd-goat/lists/tests.py",
+		"/home/bober/python/tdd-goat/functional_tests/tests.py",
+		"/home/bober/python/tdd-goat/lists/models.py",
+		"/home/bober/python/tdd-goat/lists/views.py",
+		"/home/bober/python/tdd-goat/lists/templates/base.html",
+		"/home/bober/python/tdd-goat/lists/static/base.css",
+		"/home/bober/python/tdd-goat/lists/templates/home.html",
+		"/home/bober/python/tdd-goat/lists/templates/list.html",
+		"/home/bober/python/tdd-goat/functional_tests.py",
+		"/home/bober/python/bblog/bblog/blog/templates/blog/post_detail.html",
+		"/home/bober/python/bblog/bblog/blog/models.py",
+		"/home/bober/python/bblog/bblog/blog/views.py",
+		"/home/bober/python/bblog/bblog/blog/templates/blog/post_list.html",
+		"/home/bober/python/bblog/bblog/blog/templates/blog/base.html",
+		"/home/bober/python/bblog/bblog/blog/static/blog/style.css",
+		"/home/bober/python/bblog/bblog/accounts/urls.py",
+		"/home/bober/python/bblog/bblog/accounts/templates/accounts/user_detail.html",
+		"/home/bober/python/bblog/bblog/accounts/views.py",
+		"/home/bober/python/bblog/bblog/bblog/urls.py",
+		"/home/bober/python/bblog/bblog/bblog/settings.py",
+		"/home/bober/python/bblog/bblog/blog/forms.py",
+		"/home/bober/python/bblog/bblog/blog/templates/blog/post_form.html",
+		"/home/bober/python/bblog/bblog/blog/migrations/0004_auto_20191009_1115.py",
+		"/home/bober/python/bblog/bblog/blog/migrations/0004_auto_20191009_1114.py",
+		"/home/bober/python/bblog/bblog/blog/migrations/0004_auto_20191009_1109.py",
+		"/home/bober/python/bblog/bblog/templates/registration/register.html",
+		"/home/bober/python/bblog/bblog/templates/registration/login.html",
+		"/home/bober/python/bblog/bblog/blog/urls.py",
+		"/home/bober/python/bblog/templates/registration/login.html",
+		"/home/bober/python/bblog/bblog/blog/templates/blog/about.html",
+		"/home/bober/python/bblog/bblog/blog/admin.py",
+		"/home/bober/python/bblog/.gitignore",
+		"/home/bober/python/greendit/greendit/templates/registration/login.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\t",
+			"object"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "examinator.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
