@@ -1,27 +1,17 @@
-{% load static %}
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{% extends 'base.html' %}
 
-    <link rel="stylesheet" href="{% static 'bootstrap.min.css' %}">
+{% block main %}
 
-    <link rel="icon" href="{% static 'favicon.ico' %}">
-    <title>Examinator</title>
-  </head>
-
-  <body>
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-8 text-center">
-          <div class="jumbotron">
-            <h1>Examinator</h1>
-            <p class="lead">Test your students with Examinator.</p>
-            <button id="create_exam" class="btn btn-primary btn-lg btn-block">Create New Exam</button>
-          </div>
-        </div>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-8 text-center">
+      <div class="jumbotron">
+        <h1>Examinator</h1>
+        <p class="lead">Test your students with Examinator.</p>
+        <a id="create_exam" class="btn btn-primary btn-lg btn-block" href="{% url 'create_exam' %}">Create New Exam</a>
       </div>
     </div>
-  </body>
-</html>
+  </div>
+</div>
+
+{% endblock %}

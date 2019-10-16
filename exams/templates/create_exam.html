@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block main %}
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-8 text-center">
+      <h1>New Exam</h1>
+      <form method="POST">
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-primary">Create exam</button>
+        {% csrf_token %}
+      </form>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
